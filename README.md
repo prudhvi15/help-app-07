@@ -4,4 +4,7 @@
 
 [SOURCE](https://github.com/prudhvi15/help-app-07)
 
-[Template Reference](https://startbootstrap.com/themes/)
+
+References:</br>
+[Template](https://startbootstrap.com/themes/)</br>
+[Content](https://github.com/denisecase/pbl-lifeline)
